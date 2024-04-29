@@ -48,6 +48,7 @@ git submodule update --init --recursive
   - [Lab 12 UART and LEDC (PWM)](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_12)
   - [Lab 13 Assignment of Task to Cores](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_13)
   - [Lab 14 ADC with LCD](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_14)
+  - [Adding_ESP_station_Demo]
 
 
 ## **Development**
