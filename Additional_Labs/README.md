@@ -9,7 +9,7 @@ These are additional labs that may or may not be used in the course. The followi
 - [Lab 12 UART and LEDC (PWM)](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_12)
 - [Lab 13 Assignment of Task to Cores](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_13)
 - [Lab 14 ADC with LCD](https://github.com/jminjares4/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Lab_14)
-- [Adding_ESP_station_Demo](https://github.com/JosGranados/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Adding_ESP_station_Demo)
+- [Adding ESP station Demo](https://github.com/JosGranados/Microprocessor-2-Lab-Template/tree/main/Additional_Labs/Adding_ESP_station_Demo)
 
 ### Authors
 * [**Jesus Minjares**](https://github.com/jminjares4)
